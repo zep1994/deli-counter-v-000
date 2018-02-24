@@ -10,5 +10,5 @@ def line(katz_deli)
     end
 
     puts "#{tag}"
-  end
+    end
   end
